@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Intent Navigation</string>
+    <string name="button_title">Iniciar Activity</string>
+
 </resources>
